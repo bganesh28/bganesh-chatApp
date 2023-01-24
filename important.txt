@@ -1,0 +1,13 @@
+Chat app: React
+backend: Express.js, Node.js, mongoDb
+authentication and hosting: Firebase
+realtime functionality: mongoDb change stream and pusher
+testing: postman
+
+
+
+
+
+
+
+
